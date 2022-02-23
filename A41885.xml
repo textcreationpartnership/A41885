@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great case put home in some modest queries humbly proposed and tendered to consideration by a true lover of the Protestant religion and English loyalty.</title>
+            <author>True lover of the Protestant religion and English loyalty.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41885</idno>
+            <idno type="STC">Wing G1675</idno>
+            <idno type="STC">ESTC R40513</idno>
+            <idno type="EEBO-CITATION">19346845</idno>
+            <idno type="OCLC">ocm 19346845</idno>
+            <idno type="VID">108735</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41885)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108735)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1671:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great case put home in some modest queries humbly proposed and tendered to consideration by a true lover of the Protestant religion and English loyalty.</title>
+                  <author>True lover of the Protestant religion and English loyalty.</author>
+               </titleStmt>
+               <extent>[6], 9-15 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Discusses the possible succession of the Duke of York, later James II, as a Roman Catholic King.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England --  1633-1701.</term>
+               <term>Religion and politics --  England.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+               <term>Great Britain --  Kings and rulers --  Succession.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108735:1"/>
+            <!-- PDF PAGE 18 -->
+            <pb facs="tcp:108735:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 18 -->
+            <p>THE GREAT CASE PUT HOME In ſome modeſt <hi>Queries,</hi> Humbly Propoſed and Tendred to <hi>Conſideration,</hi> By a true Lover of the <hi>Proteſtant Religion</hi> And <hi>Engliſh</hi> Loyalty.</p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</q>
+            <q>
+               <bibl>Eccleſ. 11.2.</bibl>
+               <p>Set thy heart aright, and constantly endure, and make not haſte in time of trouble.</p>
+               <p>
+                  <hi>6.</hi> Believe in the Lord, and he will help thee; order thy way aright, and truſt in him.</p>
+               <p>
+                  <hi>7.</hi> Ye that fear the Lord, wait for his mercy, and go not a<g ref="char:EOLhyphen"/>ſide leſt ye fall.</p>
+            </q>
+            <p>Printed <hi>Anno Dom.</hi> 1681.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:108735:2"/>
+            <!-- PDF PAGE 19 -->
+            <pb facs="tcp:108735:2"/>
+            <!-- PDF PAGE 19 -->
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> know, That what I am now going upon is a Sub<g ref="char:EOLhyphen"/>ject be ſet with many and great Prejudices; and ſuch peradventure are the Heates and Animo<g ref="char:EOLhyphen"/>ſities of ſome, that calm Reaſon will hardly find admittance. However, upon this <hi>Criſis,</hi> (be<g ref="char:EOLhyphen"/>ing not ſure, whether ever there may be an op<g ref="char:EOLhyphen"/>portunity again) in the ſilence of others
+<pb facs="tcp:108735:3"/>
+               <!-- PDF PAGE 20 -->more Able, I have adventured to expreſs my honeſt thoughts (ſuch, I am ſure, they are in my Intendment) whatever Cenſure they may undergoe from Biaſſed perſons, who Go<g ref="char:EOLhyphen"/>vern themſelves by Interest or Humour, by Fears and Jealouſies, in thoſe Things, where<g ref="char:EOLhyphen"/>in the Concerns of the Government and Na<g ref="char:EOLhyphen"/>tion require the weightieſt Conſideration, and the cleereſt Eviction of Reaſon and Argu<g ref="char:EOLhyphen"/>ment.</p>
+            <p>
+               <g ref="char:V">Ʋ</g>pon this account, I have thought fit to ſet forth this ſmall <hi>Tract</hi> by way of <hi>Queries:</hi> it being a thing, would not ſo much become my Meanneſs, to be Poſitive. Only the Two first Things, which I take for <hi>granted,</hi> I ſuppoſe no honeſt <hi>Engliſh-man</hi> or true <hi>Pro<g ref="char:EOLhyphen"/>teſtant</hi> will deny me. As to the things <hi>de<g ref="char:EOLhyphen"/>bated,</hi> I have ſo ſet them down by Croſs Questions, as they ſay <hi>Pro</hi> and <hi>Con,</hi> with that Evenneſs and Impartiality, that nei<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:108735:3"/>
+               <!-- PDF PAGE 20 -->ſide can juſtly complain of me: and yet with that due Submiſſion &amp; Deference, that I leave the Deciſion of them, where I ought, at the feet of my Superiours. They are ſuch Queſti<g ref="char:EOLhyphen"/>ons too, moſtly of that comprehenſiveneſs, that they will take-in the whole State, and may be both Inlarged in Themſelves, and Extend<g ref="char:EOLhyphen"/>ed alſo to all the minuteſt particularities of the <hi>Caſe.</hi> I could have brought many more; but Theſe being the Principal and moſt Ma<g ref="char:EOLhyphen"/>terial, the Reſolution and Iſsue of theſe will over-rule all Others of the like kind.</p>
+            <p>I muſt not leave this without a ſincere Protestation, that I have not put Pen to Pa<g ref="char:EOLhyphen"/>per upon any ſiniſter End or Deſign; but, with an upright Conſcience towards God and to<g ref="char:EOLhyphen"/>wards Men, I have, according to my weak<g ref="char:EOLhyphen"/>neſs, diſcharged my mind, in an humble ſenſe rf that Duty and Regard, I owe to all my Go<g ref="char:EOLhyphen"/>vernours, (of whom the <hi>KING</hi> is ſupream,) and out of a hearty deſire of my Countries Weal.</p>
+            <closer>
+               <signed>Farewel.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:108735:4"/>
+            <!-- PDF PAGE 21 -->
+            <pb n="9" facs="tcp:108735:4"/>
+            <!-- PDF PAGE 21 -->
+            <head>THE GREAT CASE PUT HOME.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He CASE of his R. H. being ſuch as will be made an Eternal Obſtruction to His Majeſties Affairs, and ſuch as never will by Declamation and <hi>Harangue,</hi> but by cool Debate and ſober Rea<g ref="char:EOLhyphen"/>ſon be determined; I do in all humility propoſe that there are ſome things in the <hi>Caſe,</hi> that muſt be <hi>granted,</hi> others that may be <hi>debated.</hi>
+            </p>
+            <p>The Things to be <hi>Granted</hi> are theſe two,</p>
+            <p n="1">I. <hi>That the</hi> D. <hi>of</hi> Y. <hi>hath by proximity of Blood an undoubted Natural Right to inherit and ſucceed, if the King</hi> (whom God long preſerve) <hi>ſhould dy without Iſſue; this being an He<g ref="char:EOLhyphen"/>reditary, not an Elective Kingdom.</hi>
+            </p>
+            <p>
+               <pb n="10" facs="tcp:108735:5"/>
+               <!-- PDF PAGE 22 -->
+A Quaery ariſing from hence is;<lb/>
+How far <hi>Poſitive Laws,</hi> made or to be made, do or may, re<g ref="char:EOLhyphen"/>gulate, limit and modify, or null and make void a <hi>Natural Right,</hi> ſuch as <hi>Succeſſion</hi> in an Hereditary Kingdom is a Main one?</p>
+            <p n="2">II. <hi>That true</hi> Chriſtian Religion, <hi>at leaſt the</hi> Proteſtant Reli<g ref="char:EOLhyphen"/>gion, <hi>as it hath here been profeſt in</hi> England, <hi>doth not pretend to preclude, debar or hinder the Right of Government, or ſo much as allow Subjects upon the account of Religion to intermeddle; but preſſeth Obedience to all lawful Governors, whatever the Per<g ref="char:EOLhyphen"/>ſons be.</hi>
+            </p>
+            <p>The Quaery from hence will be,<lb/>
+How far <hi>Religion</hi> in any Nation, at leaſt how far the <hi>Pro<g ref="char:EOLhyphen"/>teſtant Religion</hi> in This, being ſo interwoven with the <hi>Govern<g ref="char:EOLhyphen"/>ment</hi> as it is, may, in caſe of a <hi>Perſecution</hi> to ariſe from a <hi>Succeſſor,</hi> be concern'd in providing aforehand for its own ſecurity?</p>
+            <p>The Things, which may fall under <hi>Debate,</hi> are ſuch as theſe.</p>
+            <p n="1">I. <hi>Whether an Heir of the Crown may not, whil'ſt a Subject, by ſome Miſdemeanor forfeit that Right, which Nature hath placed in him, to the Laws of the Country? and whether the</hi> D. <hi>of</hi> Y. <hi>hath not ſo done, particularly by having</hi> (as it is ſtrongly pre<g ref="char:EOLhyphen"/>ſum'd he hath) <hi>reconciled himſelf to the Church of</hi> Rome?</p>
+            <p>
+               <pb n="11" facs="tcp:108735:5"/>
+               <!-- PDF PAGE 22 -->
+To this I ask; <hi>Whether</hi> the Heir of the Crown his being a <hi>Papiſt</hi> (if really ſuch) <hi>at any Rate,</hi> do in Law cauſe a For<g ref="char:EOLhyphen"/>feiture of his Right? and then, <hi>Whether</hi> a <hi>Preſumtive</hi> Crime (be it what it will) can by Law take away the Right of <hi>any</hi> Subjects Eſtate? and <hi>Whether</hi> it be not hard meaſure for a <hi>Prince</hi> to be denyed the common right of every <hi>Subject,</hi> when im<g ref="char:EOLhyphen"/>pleaded as a Criminal? which is, that <hi>Sentence</hi> do not paſs upon him, much leſs be put in <hi>Execution</hi> againſt him, till he be <hi>Cited</hi> and ſummon'd to appear and anſwer for himſelf, or be otherwiſe <hi>Convicted</hi> by due courſe of Law?</p>
+            <p n="2">II. <hi>Whether the very Conſtitution of the</hi> Engliſh <hi>Laws, as they now ſtand, do not in the Intent and Purport of them, exclude a</hi> Popiſh Succeſſor, <hi>as One, who 'tis preſumed neither Will nor Can execute them? ſeeing they do not allow a</hi> Papiſt <hi>to be ſo much as a</hi> Juſtice <hi>of Peace, a</hi> Church-warden, <hi>or a</hi> Conſtable?</p>
+            <p>To this I make theſe Demands,</p>
+            <p>Whether there be not a vaſt difference betwixt an Inferior <hi>Magiſtrate,</hi> whoſe Place is a meer Truſt, and a <hi>Soveraign</hi> inveſted into his Office by Right of Birth? <hi>Whether</hi> a Di<g ref="char:EOLhyphen"/>ſtruſt of Him, being ſtill but matter of <hi>Preſumption,</hi> ought to extinguiſh ſuch a Right? and <hi>Whosher</hi> that very Diſtruſt too may not be ſatisfied by Limitations and Conceſſions a<g ref="char:EOLhyphen"/>greed upon with the Perſon concerned in the Succeſſion? and <hi>Whether</hi> the Word, Honor and Oath of ſuch a Perſon, ought not among <hi>Chriſtians</hi> to be locked upon as ſufficient grounds of Belief and Aſſurance? as it is uſual in other Countries; where different <hi>Religions</hi> are profeſſed; it being a thing hardly practicable to; lay any other <hi>Tyes</hi> upon a <hi>Soveraign,</hi> or to find out any <hi>Expedient</hi> of another nature, that may be con<g ref="char:EOLhyphen"/>ſiſtent with <hi>Majeſty.</hi>
+            </p>
+            <p n="3">
+               <pb n="12" facs="tcp:108735:6"/>
+               <!-- PDF PAGE 23 -->
+III. <hi>Whether</hi> (without any conſideration of Law) <hi>the bare Fore<g ref="char:EOLhyphen"/>ſight of great Inconveniencies or publick Miſchiefs, which may poſſibly or probably, nay muſt neceſſarily, and certainly will be<g ref="char:EOLhyphen"/>fal a People upon the ſucceſſion of the Right Heir into the Go<g ref="char:EOLhyphen"/>vernment, be not a warrantable reaſon for his Excluſion, to lay Him aſide as if he were not, and to ſet up Another in His ſtead?</hi>
+            </p>
+            <p>Let another like Queſtion be put;</p>
+            <p>If a Chriſtian Prince coming rightfully to the Throne, and having for ſome time quietly ſate therein, ſhould after<g ref="char:EOLhyphen"/>ward <hi>Apoſtatize</hi> from his Religion, and perſecute the Pro<g ref="char:EOLhyphen"/>feſſors of it: <hi>Whether</hi> ſuch an one may by <hi>Scripture</hi> or <hi>Law</hi> be expelled and turned out of his Poſſeſſion? and, <hi>Whether</hi> the Caſe of <hi>Excluſion</hi> and <hi>Expulſion</hi> be not much-what the ſame? and, <hi>Whether</hi> the Humor of ſome amongſt Us may not be too like that of the <hi>Iſraelites,</hi> when for fear of Oppreſſion they Revolted from the Succeſſor to an Uſurper?</p>
+            <p n="4">IV. <hi>Whether the Examples of our Fore-fathers, who have upon ſlighter occaſions made ſeveral Breaches and Interruptions in the</hi> Succeſſion, <hi>are not a good Warrant for Us at this time, who ly under ſuch diſmal and dreadful apprehenſions, to do the like? and Whether this will not be a legal</hi> Excluſion, <hi>which is fortified and confirmed by ſo many Precedents, ſince the Laws themſelves are over-ruled and determined by Cuſtom and Practice?</hi>
+            </p>
+            <p>To which may be rejoined;</p>
+            <p>
+               <hi>Whether</hi> it were in the power of our Fore-fathers, or be now in Ours by any Law (for <hi>Id poſſumus, quod Jure poſſu<g ref="char:EOLhyphen"/>mus</hi>)
+<pb n="13" facs="tcp:108735:6"/>
+               <!-- PDF PAGE 23 -->to alter that form or frame of <hi>Government,</hi> to which we are <hi>Born</hi> and <hi>Sworn</hi> Subjects, and of which the <hi>Succeſſion</hi> is a main eſſential Point? and by conſequence, <hi>Whether</hi> it was not in them Illegal to lay aſide at any time the rightful <hi>Succeſſor?</hi> and <hi>Whether</hi> our following their <hi>Example</hi> in doing things Unlawful, can juſtifie the Illegality of our actings? Further, though the Body of the Nation might be excuſed in their ſubmiſſion to ſuch as were only <hi>de facto</hi> Kings, and were not <hi>de jure</hi> ſo; yet <hi>Whether</hi> Thoſe, who abetted and aſ<g ref="char:EOLhyphen"/>ſiſted ſuch Perſons to get into the Throne, and deſerted and oppoſed the <hi>Lawful Heirs,</hi> were not highly Guilty; as in the caſe of King <hi>Stephen</hi> and <hi>Maud</hi> the Empreſs? And laſtly, However <hi>Practice</hi> may regulate the Law in things In<g ref="char:EOLhyphen"/>different, and in matters of ſmaller Alloy; yet <hi>Whether</hi> an unlawful Practice be not in it ſelf a plain down-right viola<g ref="char:EOLhyphen"/>tion of Law?</p>
+            <p n="5">V. <hi>Whether, upon the whole, the Excluſion of the</hi> D. <hi>together with the <g ref="char:V">Ʋ</g>nion of the</hi> Proteſtants, <hi>be not the moſt effectual, if not the</hi> only Means <hi>of ſecuring our</hi> Religion, <hi>and keeping out</hi> Po<g ref="char:EOLhyphen"/>pery? <hi>and conſequently in our Caſe, there being</hi> (as We ſay) <hi>no other</hi> Expedient, <hi>Whether abſolute invincible Neceſſity, which knows no Law, do's not inforce us by any means to preſerve our ſelves?</hi>
+            </p>
+            <p>To this may be returned;</p>
+            <p>If the <hi>King,</hi> beſide his <hi>Brotherly</hi> Affection, could be ſa<g ref="char:EOLhyphen"/>tisfied in <hi>Law</hi> and <hi>Conſcience</hi> (ſeeing that an Hereditary Kingdom is <hi>Feodum non alienabile,</hi> as the <hi>Civilians</hi> term it) to comply with, and to give his conſent to the <hi>Excluding Bill;</hi> yet, <hi>Whether</hi> the <hi>Excluſion</hi> of the <hi>D.</hi> will not probably draw as ill Conſequents after it, and involve the Nation in as great Hazards, as the <hi>Admiſſion</hi> of him would poſſibly do? and, <hi>Whether</hi> the <hi>Uniting of Proteſtants</hi> (if it be only into <hi>Immu<g ref="char:EOLhyphen"/>nities,</hi> and not into methods of <hi>Worſhip</hi>) be not in effect to
+<pb n="14" facs="tcp:108735:7"/>
+               <!-- PDF PAGE 24 -->eſtabliſh and legalize <hi>Schiſm</hi> in all its diviſions; and by pro<g ref="char:EOLhyphen"/>viding a ſecure ſhelter for <hi>Romiſh Prieſts</hi> and <hi>Emiſſaries</hi> among our <hi>Sects</hi> (where no <hi>Test</hi> ſhall reach them) it will not prove a very likely Means, in time, of betraying us to <hi>Popery?</hi> moſt of thoſe <hi>Sects</hi> in theſe late licentious Times, having been Influ<g ref="char:EOLhyphen"/>enced and Principled by that <hi>Party,</hi> who have made the greateſt Advantages to their own Hopes from our <hi>Diviſions:</hi> which by ſuch a <hi>Comprehenſion,</hi> will be ſo far from being <hi>Uni<g ref="char:EOLhyphen"/>ted</hi> to <hi>Us,</hi> or among <hi>Themſelves,</hi> that they will be <hi>Eſtabliſhed</hi> apart and ſeverally by <hi>Law,</hi> and paſs in ſhort time for the moſt conſiderable part of the <hi>National Religion?</hi> And as to <hi>Neceſſity,</hi> the laſt Refuge; <hi>Whether,</hi> let our Circumſtances be what they will, there can be any neceſſity laid upon any man to Sin, to do Evil? and though <hi>Self-preſervation</hi> be the great principle of Nature, <hi>whether</hi> it ought to be indeavored by unlawful indirect means; ſince our Savior tells us, that <hi>He that will ſave his life,</hi> in that manner, <hi>ſhall looſe it?</hi> and <hi>Whether</hi> the <hi>Apoſtles</hi> Rule in all dubious and hazardous Caſes, be not beſt and ſafeſt for <hi>Chriſtians</hi> to follow, <hi>Not to do evil, that good may come thereof?</hi>
+            </p>
+            <p>The Sum of All is this;</p>
+            <p>That this <hi>Caſe of Succeſſion,</hi> though it ſeem directly to caſt an evil Aſpect upon <hi>Religion</hi> and the <hi>Proteſtant</hi> Cauſe a<g ref="char:EOLhyphen"/>mongſt us, yet really and ultimately it reſolves it ſelf into a <hi>Civil Grieuance,</hi> as that which may touch <hi>Life, Liberty, Property,</hi> &amp;c. by bringing in <hi>Arbitrary Power</hi> along with it, which <hi>Superſtition</hi> is too apt to do. Wherefore in were to be Wiſhed, That ſome of the moſt Learned in both Facul<g ref="char:EOLhyphen"/>ties of <hi>Law</hi> and <hi>Divinity</hi> might be conſulted with, and re<g ref="char:EOLhyphen"/>quired to give their Judgment. For if <hi>Henry</hi> the Eighth, who was not over-curious to govern himſelf by other mens Opinion and Advice, did think fit to propoſe the <hi>Divorce</hi> of the <hi>Queen,</hi> who had been his Brothers Wife, to ſeveral <hi>Uni<g ref="char:EOLhyphen"/>verſities,</hi> &amp;c. and not to determin the matter without ſuch a
+<pb n="15" facs="tcp:108735:7"/>
+               <!-- PDF PAGE 24 -->
+               <hi>Conſultation:</hi> How much more will it becom the Wiſdom of a <hi>Nation</hi> to uſe the like leaſurely and tender Care in ſo Weigh<g ref="char:EOLhyphen"/>ty a matter as the disabling the <hi>Inheritance</hi> of the <hi>Crown</hi> may prove?</p>
+            <p>
+               <hi>May a</hi> merciful God, <hi>whoſe immediate In<g ref="char:EOLhyphen"/>terpoſal alone can heal our</hi> Diſtempers, <hi>and reſcue us from thoſe</hi> Dangers, <hi>we are too for<g ref="char:EOLhyphen"/>ward to bring upon our ſelves, direct and proſper the</hi> Publick Counſels, <hi>and may he ever preſerve our</hi> Gracious Soveraign, <hi>whoſe Life will be our best Security: and may We, as becomes Loyal and dutiful</hi> Subjects, <hi>en<g ref="char:EOLhyphen"/>deavor to make his Life Comfortable (that it may be Long) by ſupplying proportionable Aids to our</hi> Neceſsities <hi>at Home, and by giving ſuitable Incouragements to our</hi> Alli<g ref="char:EOLhyphen"/>ances <hi>abroad: which as it will be for His</hi> Majeſties Honor, <hi>ſo will it be no leſs for</hi> Our own <hi>preſent</hi> Security.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
